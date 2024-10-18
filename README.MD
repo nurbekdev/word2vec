@@ -29,4 +29,4 @@ Har ikki model so'zlarni yuqori o'lchamli vektor fazosida joylashtiradi, bunda s
 1. Repositoryni klonlash:
 
 ```bash
-git clone https://github.com/yourusername/word2vec.git
+git clone https://github.com/nurbekdev/word2vec.git
